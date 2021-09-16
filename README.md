@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hey! I'm Sergey Filimonov 👋
 
-<!--
-**Filimoa/Filimoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like to build things with Python ML frameworks, SQL databases, JavaScript (want to learn TypeScript), modern backend APIs, and modern frontend frameworks. 🤖
 
-Here are some ideas to get you started:
+If you would like to have my help with your team and product, feel free to contact me. 🤓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Some technical fields I have in depth experience with
+
+**Data Science:**
+- 🌎 Geospatial Data
+- ✍ Natural Language Processing  
+- 📈 Time Series Forecasting 
+- 🪧 Data Visualizations 
+
+
+**Web Development:**
+- 🐍 Backend Architecture and System Design (Python)
+- 💻 React SPA apps
+- 🕸️ Webscraping 
+
+
+
