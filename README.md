@@ -1,6 +1,6 @@
 ### Hey! I'm Sergey Filimonov 👋
 
-I'm a data scientist currently working at Honda with a passion for open source software and snowboarding.
+I'm a data scientist currently working at Honda with a passion for coding, startups and snowboarding.
 
 I like to build things with Python ML frameworks, SQL databases, JavaScript (want to learn TypeScript), modern backend APIs, and modern frontend frameworks. 🤖
 
