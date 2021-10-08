@@ -9,6 +9,7 @@ If you would like to have my help with your team and product, feel free to conta
 #### Some technical fields I have in depth experience with
 
 **Data Science:**
+- 🐍 Pandas, Dask, Keras, Scikit-Learn ... 
 - ✍ Natural Language Processing  
 - 🌎 Geospatial Data
 - 📈 Time Series Forecasting 
@@ -19,7 +20,8 @@ If you would like to have my help with your team and product, feel free to conta
 - 🐍 Backend Architecture and System Design (Python)
 - 💻 React SPA apps
 - 🔥 Heroku 
-- 🕸️ Webscraping 
+- 🕸️ Webscraping
+- 🎨 Design  
 
 You can find me on:
 
