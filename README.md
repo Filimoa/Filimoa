@@ -17,7 +17,7 @@ If you would like to have my help with your team and product, feel free to conta
 
 
 **Web Development:**
-- 🐍 Backend Architecture and System Design (Python)
+- 📐 Backend Architecture and System Design (Python)
 - 💻 React SPA apps
 - 🔥 Heroku 
 - 🕸️ Webscraping
