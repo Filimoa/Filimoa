@@ -25,7 +25,7 @@ If you would like to have my help with your team and product, feel free to conta
 
 You can find me on:
 
-- [My website: https://www.sergey.fyi](https://www.sergey.fyi)
+- [My website: https://www.sergey.fyi] (https://www.sergey.fyi)
 - [LinkedIn](https://www.linkedin.com/in/sergey-osu/)
 
 
