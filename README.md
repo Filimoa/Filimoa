@@ -30,6 +30,7 @@ You can find me on:
 - [My website](https://www.sergey.fyi)
 - [LinkedIn](https://www.linkedin.com/in/sergey-osu/)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=filimoa)](https://git.io/streak-stats)
 
 
 
