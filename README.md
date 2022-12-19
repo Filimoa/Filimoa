@@ -8,6 +8,8 @@ I like to build things with Python ML frameworks, SQL databases, TypeScript, mod
 
 If you would like to have my help with your team and product, feel free to contact me. 
 
+ 🛫 Moscow 🛬 Denver
+
 #### Some technical fields I have in depth experience with
 
 **Data Science:**
