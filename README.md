@@ -6,7 +6,7 @@ Passionate about open source technologies and startups. Always looking to be lea
 
 I like to build things with Python ML frameworks, SQL databases, TypeScript, modern backend APIs, and modern frontend frameworks. 🤖
 
- 🛫 Moscow 🛬 Denver
+ 🛫 Moscow to 🛬 Denver.
 
 #### Some technical fields I have in depth experience with
 
