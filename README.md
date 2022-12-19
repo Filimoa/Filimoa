@@ -6,8 +6,6 @@ Passionate about open source technologies and startups. Always looking to be lea
 
 I like to build things with Python ML frameworks, SQL databases, TypeScript, modern backend APIs, and modern frontend frameworks. 🤖
 
-If you would like to have my help with your team and product, feel free to contact me. 
-
  🛫 Moscow 🛬 Denver
 
 #### Some technical fields I have in depth experience with
@@ -16,7 +14,6 @@ If you would like to have my help with your team and product, feel free to conta
 - 🐍 Pandas, Dask, Keras, Scikit-Learn ... 
 - ✍ Natural Language Processing  
 - 🌎 Geospatial Data
-- 📈 Time Series Forecasting 
 - 🪧 Data Visualizations 
 
 
@@ -24,8 +21,6 @@ If you would like to have my help with your team and product, feel free to conta
 - 📐 Backend Architecture and System Design (Python)
 - ✨ Typescript
 - 💻 React SPA apps
-- 🛸 Heroku 
-- 🕸️ Webscraping
 - 🎨 Design  
 
 You can find me on:
