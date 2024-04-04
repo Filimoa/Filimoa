@@ -4,24 +4,20 @@ Currently building AI tools @ Three Sigma.  I used to work closely with research
 
 Passionate about open source technologies and startups. Always looking to be learning, and sharing what I learn with others.
 
-I like to build things with Python ML frameworks, SQL databases, TypeScript, modern backend APIs, and modern frontend frameworks. 🤖
-
  🛫 Moscow to 🛬 Denver.
 
-#### Some technical fields I have in depth experience with
+#### Some technical fields I have experience with
 
 **Data Science:**
-- 🐍 Pandas, Dask, Keras, Scikit-Learn ... 
+- 🐍 Polars, Pandas (unfortunately), PyTorch, Scikit-Learn ... 
 - ✍ Natural Language Processing  
 - 🌎 Geospatial Data
-- 🪧 Data Visualizations 
 
 
 **Web Development:**
 - 📐 Backend Architecture and System Design (Python)
 - ✨ Typescript
 - 💻 React SPA apps
-- 🎨 Design  
 
 You can find me on:
 
