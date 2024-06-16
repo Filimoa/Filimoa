@@ -9,10 +9,9 @@ Passionate about open source technologies and startups. Always looking to be lea
 #### Some technical fields I have experience with
 
 **Data Science:**
+- 🤖 LLM's / RAG
 - 🐍 Polars, Pandas (unfortunately), PyTorch, Scikit-Learn ... 
-- ✍ Natural Language Processing  
 - 🌎 Geospatial Data
-
 
 **Web Development:**
 - 📐 Backend Architecture and System Design (Python)
