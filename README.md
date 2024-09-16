@@ -1,6 +1,6 @@
 ### Hey! I'm Sergey Filimonov 👋
 
-Currently building AI tools @ [Three Sigma](https://www.data.threesigma.ai/filings-ai).  I used to work closely with research scientists to develop and maintain ML models designed to optimize production at Honda. 
+Currently building AI tools @ [Matrisk](https://www.data.matrisk.ai/filings-ai).  I used to work closely with research scientists to develop and maintain ML models designed to optimize production at Honda. 
 
 Passionate about open source technologies and startups. Always looking to be learning, and sharing what I learn with others.
 
