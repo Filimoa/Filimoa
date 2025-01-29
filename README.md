@@ -23,7 +23,7 @@ You can find me on:
 - [My website](https://www.sergey.fyi)
 - [LinkedIn](https://www.linkedin.com/in/sergey-osu/)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=filimoa)](https://git.io/streak-stats)
+[![Sergey's GitHub stats](https://github-readme-stats.vercel.app/api?username=filimoa)](https://github.com/filimoa/github-readme-stats)
 
 
 
