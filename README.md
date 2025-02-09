@@ -2,7 +2,7 @@
 
 Currently building AI tools @ [Matrisk](https://www.data.matrisk.ai/filings-ai).  I used to work closely with research scientists to develop and maintain ML models designed to optimize production at Honda. 
 
-Passionate about open source technologies and startups. Always looking to be learning, and sharing what I learn with others.
+Passionate about open source technologies and startups. Always looking to be learning, and sharing what I learn with others. Check out my blog at [sergey.fyi](https://www.sergey.fyi/articles).
 
  🛫 Moscow to 🛬 Denver.
 
