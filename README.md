@@ -1,6 +1,6 @@
 ### Hey! I'm Sergey Filimonov 👋
 
-Currently building AI tools @ [Akur8](https://www.matrisk.ai/filings-ai).  I used to work closely with research scientists to develop and maintain ML models designed to optimize production at Honda. 
+Currently building AI tools @ [Akur8](https://www.matrisk.ai/filings-ai).  Previously, I cofounded Matrisk, an AI platform that helped insurance teams analyze and compare regulatory filings at scale (acquired).
 
 Passionate about open source technologies and startups. Always looking to be learning, and sharing what I learn with others - check out my blog at [sergey.fyi](https://www.sergey.fyi/articles).
 
